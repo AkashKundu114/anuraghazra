@@ -1,24 +1,23 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Akash!](https://anuraghazra.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Akash Kundu | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Akash Kundu | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Akash Kundu" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Akash Kundu, a passionate self-taught developer.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🌱 I’m currently learning typescript
+- 💬 Ask me about anything [here](https://github.com)
 
 **Languages and Tools:**  
 
